@@ -1,0 +1,11 @@
+﻿
+<Documentation>
+  <members name="PropertyEditor>"></members>
+  <propertyeditor>
+    <summary>
+      <remarks>
+        <para>This class displays and edits extended properties of .mp3 files</para>
+      </remarks>
+    </summary>
+  </propertyeditor>
+</Documentation>
